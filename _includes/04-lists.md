@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. sleeping
+2. having a nice meal
+3. watching movies
